@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_jk8o8JWdEe2797UxlrYOdw" name="stock_list" dataPackage="_jlA6YJWdEe2797UxlrYOdw" Server="Localhost 127.0.0.1" FilePath="C:/Users/Nada/Desktop/Project_BI/Input/stock_list.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_jlA6YJWdEe2797UxlrYOdw" name="default" dataManager="_jk8o8JWdEe2797UxlrYOdw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_jlBhcJWdEe2797UxlrYOdw" id="_72RUQJWcEe2797UxlrYOdw" label="stock_list">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jlBhcZWdEe2797UxlrYOdw" label="symbol" length="5" talendType="id_String" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jlBhcpWdEe2797UxlrYOdw" label="stock_name" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jlBhc5WdEe2797UxlrYOdw" label="weight" length="7" precision="6" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

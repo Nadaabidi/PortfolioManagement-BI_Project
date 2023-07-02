@@ -1,0 +1,24 @@
+[ {
+  "baseItem" : {
+    "id" : "_lFqXUJWpEe2797UxlrYOdw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2WDAoJeDEe2nk47KzZdfog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2JUQIJWqEe2797UxlrYOdw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2WDAoJeDEe2nk47KzZdfog - portfolio_returns",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jkNpIJWdEe2797UxlrYOdw - stock_list",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

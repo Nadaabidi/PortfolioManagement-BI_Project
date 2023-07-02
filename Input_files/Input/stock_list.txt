@@ -1,0 +1,11 @@
+symbol;stock_name;weight
+MNP;Monoprix;0.10643
+TAIR;Tunisair;0.01989
+BIAT;BIAT;0.09698
+CITY;City Cars;0.10295
+SMG;Magasin General;0.14837
+BVMT;Telnet Holding;0.0746
+BHASS;BH Assurance;0.1054
+NAKL;Ennakl Automobile;0.16504
+ADWYA;Adwia;0.07422
+ECYCL;Euro-Cycles;0.10613
